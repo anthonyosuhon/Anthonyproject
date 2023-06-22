@@ -1,0 +1,10 @@
+body {
+  background-color: lightblue;
+    
+}
+
+
+.myhead {
+  text-align: center;
+ 
+}
